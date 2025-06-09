@@ -19,14 +19,12 @@
 <img src="https://img.shields.io/badge/📍_Based_In-India-orange?style=for-the-badge&logo=location&logoColor=white&labelColor=ea580c&color=00ff88" />
 </p>
 
-<!-- Animated Code GIF -->
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Coding Animation" />
-
-<!-- Alternative: Matrix-style animation -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="800" alt="Matrix Animation" />
-
-<!-- Contribution Calendar Alternative -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=chopra-mayank&bg_color=0d1117&color=00ff88&line=00ff88&point=ffffff&area=true&hide_border=true" width="100%" />
+<!-- Snake Animation -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chopra-mayank/chopra-mayank/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chopra-mayank/chopra-mayank/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/chopra-mayank/chopra-mayank/output/github-contribution-grid-snake.svg">
+</picture>
 
 </div>
 
