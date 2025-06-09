@@ -4,7 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=MAYANK%20CHOPRA&fontSize=90&fontAlign=50&fontAlignY=40&fontColor=ffffff&animation=fadeIn&stroke=ffffff&strokeWidth=2" />
 
 <!-- Animated Profile Picture with Glow Effect -->
-<img src="https://avatars.githubusercontent.com/u/50812346?v=4" width="200" alt="Mayank Chopra" style="border-radius: 50%; border: 5px solid #00ff88; box-shadow: 0 0 30px rgba(0, 255, 136, 0.8), 0 0 60px rgba(0, 255, 136, 0.4); animation: pulse 2s infinite;" />
+
 
 <!-- Multi-line Dynamic Typing with Emojis -->
 <a href="https://git.io/typing-svg">
