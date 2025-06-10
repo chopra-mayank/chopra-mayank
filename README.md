@@ -204,7 +204,7 @@
 </a>
 <p><em>🌟 Discover my complete portfolio of innovative solutions</em></p>
 <p>
-<img src="https://img.shields.io/badge/20+_Projects-Success-00ff88?style=flat-square&logo=check&logoColor=white" />
+<img src="https://img.shields.io/badge/10+_Projects-Success-00ff88?style=flat-square&logo=check&logoColor=white" />
 <img src="https://img.shields.io/badge/Multiple_Domains-Tech-00ff88?style=flat-square&logo=technology&logoColor=white" />
 <img src="https://img.shields.io/badge/Open_Source-Contributor-00ff88?style=flat-square&logo=open-source-initiative&logoColor=white" />
 </p>
