@@ -3,9 +3,6 @@
 <!-- Animated Header with Custom Gradient -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=MAYANK%20CHOPRA&fontSize=90&fontAlign=50&fontAlignY=40&fontColor=ffffff&animation=fadeIn&stroke=ffffff&strokeWidth=2" />
 
-<!-- Animated Profile Picture with Glow Effect -->
-
-
 <!-- Multi-line Dynamic Typing with Emojis -->
 <a href="https://git.io/typing-svg">
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&duration=2500&pause=800&color=00FF88&background=0D111700&center=true&vCenter=true&multiline=true&width=900&height=150&lines=%F0%9F%A7%A0+Data+Science+Enthusiast+%26+AI+Innovator;%F0%9F%92%BB+Full-Stack+Developer+%7C+Problem+Solver;%F0%9F%93%B8+Creative+Photographer+%7C+Visual+Storyteller;%F0%9F%9A%80+Building+the+Future+with+Technology!" alt="Typing SVG" />
@@ -371,10 +368,10 @@
 <br>
 
 ```text
-🌞 Morning    ████████░░░░░░░░░░░░░  35.2% 
-🌆 Daytime    ████████████░░░░░░░░░  52.1% 
+🌞 Morning    ██░░░░░░░░░░░░░░░░░░░  12.3% 
+🌆 Daytime    ████████░░░░░░░░░░░░░  35.2% 
 🌃 Evening    ██████░░░░░░░░░░░░░░░  28.7% 
-🌙 Night      ██░░░░░░░░░░░░░░░░░░░  12.3%
+🌙 Night      ████████████░░░░░░░░░  52.1% 
 ```
 
 </details>
@@ -384,11 +381,11 @@
 <br>
 
 - 🔥 I can code for 12+ hours straight when I'm in the zone
-- 🎵 I listen to lo-fi hip hop while coding
+- 🎵 I listen to lo-fi music while coding
 - 📚 I've read 50+ books on AI and technology
 - 🌮 I fuel my coding sessions with coffee and good food
 - 🎯 I solve at least 3 coding problems daily
-- 🎸 I play guitar to relax after intense coding sessions
+- 🏏 I play cricket to relax after intense coding sessions
 
 </details>
 
@@ -398,9 +395,9 @@
 
 ```python
 setup = {
-    "OS": "Windows 11 / Ubuntu 22.04",
-    "Editor": "VS Code + PyCharm",
-    "Terminal": "Windows Terminal + Zsh",
+    "OS": "Windows 11",
+    "Editor": "VS Code + Anaconda Navigator",
+    "Terminal": "Windows Terminal + VS Terminal",
     "Coffee": "Unlimited ☕",
     "Music": "Spotify Premium 🎵",
     "Motivation": "Building the future! 🚀"
