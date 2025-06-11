@@ -23,9 +23,19 @@
 <img src="https://img.shields.io/badge/📞_Contact_Me_Now-Let's_Connect!-ff1744?style=for-the-badge&logo=gmail&logoColor=white&labelColor=dc2626&color=00ff88&animation=pulse" />
 </a>
 
+<!-- Snake Animation -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chopra-mayank/chopra-mayank/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chopra-mayank/chopra-mayank/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/chopra-mayank/chopra-mayank/output/github-contribution-grid-snake.svg">
+</picture>
+
 </div>
 
 ---
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 👨‍💼 Professional Summary
 
@@ -55,10 +65,10 @@
 <div align="center">
 
 ### 📊 GitHub Impact
-<img src="https://github-readme-stats.vercel.app/api?username=chopra-mayank&show_icons=true&theme=chartreuse-dark&count_private=true&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00ff88&text_color=ffffff&custom_title=GitHub%20Statistics" alt="GitHub Stats" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=chopra-mayank&show_icons=true&theme=chartreuse-dark&count_private=true&hide_border=true&bg_color=000000&title_color=00ff88&icon_color=00ff88&text_color=ffffff&custom_title=GitHub%20Statistics" alt="GitHub Stats" width="100%" />
 
 ### 🔥 Contribution Streak
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=chopra-mayank&theme=chartreuse-dark&hide_border=true&background=0d1117&stroke=00ff88&ring=00ff88&fire=00ff88&currStreakLabel=00ff88" alt="GitHub Streak" width="100%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=chopra-mayank&theme=chartreuse-dark&hide_border=true&background=000000&stroke=00ff88&ring=00ff88&fire=00ff88&currStreakLabel=00ff88" alt="GitHub Streak" width="100%" />
 
 </div>
 
@@ -67,6 +77,9 @@
 </table>
 
 ---
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 💼 Professional Experience
 
@@ -94,6 +107,9 @@
 </table>
 
 ---
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🛠️ Technical Expertise
 
@@ -171,6 +187,9 @@
 
 ---
 
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
 ## 🏆 Featured Projects Portfolio
 
 <div align="center">
@@ -184,7 +203,7 @@
 <td width="50%" align="center" style="background-color: #000000; padding: 20px;">
 
 ### 🧏‍♂️ Sign Language Translator
-[![Project](https://github-readme-stats.vercel.app/api/pin/?username=chopra-mayank&repo=Sign-Language-Translation&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=ffffff&icon_color=00ff88)](https://github.com/chopra-mayank/Sign-Language-Translation)
+[![Project](https://github-readme-stats.vercel.app/api/pin/?username=chopra-mayank&repo=Sign-Language-Translation&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00ff88&text_color=ffffff&icon_color=00ff88)](https://github.com/chopra-mayank/Sign-Language-Translation)
 
 **🎯 Impact:** Bridges communication gap for deaf community  
 **📈 Metrics:** 95% accuracy, real-time processing  
@@ -200,7 +219,7 @@
 <td width="50%" align="center" style="background-color: #000000; padding: 20px;">
 
 ### 🩺 Medical Diagnosis AI
-[![Project](https://github-readme-stats.vercel.app/api/pin/?username=chopra-mayank&repo=Pneumonia-Detection&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=ffffff&icon_color=00ff88)](https://github.com/chopra-mayank/Pneumonia-Detection)
+[![Project](https://github-readme-stats.vercel.app/api/pin/?username=chopra-mayank&repo=Pneumonia-Detection&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00ff88&text_color=ffffff&icon_color=00ff88)](https://github.com/chopra-mayank/Pneumonia-Detection)
 
 **🎯 Impact:** Assists healthcare professionals in diagnosis  
 **📈 Metrics:** 94% accuracy, 2-second analysis time  
@@ -218,7 +237,7 @@
 <td width="50%" align="center" style="background-color: #000000; padding: 20px;">
 
 ### 🔐 Email Security Analyzer
-[![Project](https://github-readme-stats.vercel.app/api/pin/?username=chopra-mayank&repo=Email-Risk-Analysis&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=ffffff&icon_color=00ff88)](https://github.com/chopra-mayank/Email-Risk-Analysis)
+[![Project](https://github-readme-stats.vercel.app/api/pin/?username=chopra-mayank&repo=Email-Risk-Analysis&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00ff88&text_color=ffffff&icon_color=00ff88)](https://github.com/chopra-mayank/Email-Risk-Analysis)
 
 **🎯 Impact:** Prevents cyber security threats  
 **📈 Metrics:** 98% threat detection rate  
@@ -264,16 +283,19 @@
 
 ---
 
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
 ## 📈 GitHub Analytics & Performance
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=chopra-mayank&bg_color=0d1117&color=00ff88&line=00ff88&point=ffffff&area=true&hide_border=true&custom_title=Development%20Activity%20%26%20Consistency" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=chopra-mayank&bg_color=000000&color=00ff88&line=00ff88&point=ffffff&area=true&hide_border=true&custom_title=Development%20Activity%20%26%20Consistency" width="100%" />
 
 <table style="background-color: #000000; border: 2px solid #00ff88; border-radius: 15px;">
 <tr>
 <td width="50%" style="background-color: #000000; padding: 15px;">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chopra-mayank&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=ffffff&custom_title=Technical%20Proficiency" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chopra-mayank&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00ff88&text_color=ffffff&custom_title=Technical%20Proficiency" width="100%" />
 </td>
 <td width="50%" style="background-color: #000000; padding: 15px;">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=chopra-mayank&theme=github_dark" width="100%" />
@@ -284,6 +306,9 @@
 </div>
 
 ---
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🎨 Creative Portfolio & Personal Brand
 
@@ -324,6 +349,9 @@
 
 ---
 
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
 ## 🎯 Career Goals & Vision
 
 <div align="center">
@@ -356,6 +384,9 @@
 </div>
 
 ---
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🤝 Let's Connect & Collaborate
 
@@ -411,6 +442,9 @@
 </div>
 
 ---
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🎮 Developer Profile & Insights
 
