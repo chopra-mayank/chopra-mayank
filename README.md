@@ -29,9 +29,9 @@
 
 ## 👨‍💼 Professional Summary
 
-<table>
-<tr>
-<td width="70%" valign="top">
+<table style="background-color: #000000; border: 2px solid #00ff88; border-radius: 15px;">
+<tr style="background-color: #000000;">
+<td width="70%" valign="top" style="background-color: #000000; padding: 20px;">
 
 ### 🎯 Value Proposition
 **Innovative Data Science Engineer** with proven track record in developing **production-ready AI solutions** that deliver measurable business impact. Combining **technical excellence** with **creative problem-solving** to build scalable systems that bridge the gap between cutting-edge research and practical applications.
@@ -50,7 +50,7 @@
 - **Certifications:** AWS Cloud Practitioner (In Progress), Google Data Analytics
 
 </td>
-<td width="30%" valign="top">
+<td width="30%" valign="top" style="background-color: #000000; padding: 20px;">
 
 <div align="center">
 
@@ -76,9 +76,9 @@
 
 </div>
 
-<table>
+<table style="background-color: #000000; border: 2px solid #00ff88; border-radius: 15px;">
 <tr>
-<td width="100%">
+<td width="100%" style="background-color: #000000; padding: 20px;">
 
 **Senior Development Intern** | **Merci Global ERP** | *2024 - Present*
 - 🎯 **Lead full-stack development** of enterprise-level ERP modules serving 500+ users
@@ -105,9 +105,9 @@
 
 ### 🤖 AI/ML Specialization
 
-<table>
+<table style="background-color: #000000; border: 2px solid #00ff88; border-radius: 15px;">
 <tr>
-<td width="50%">
+<td width="50%" style="background-color: #000000; padding: 15px;">
 
 **Machine Learning & Deep Learning**
 - TensorFlow, PyTorch, Scikit-learn
@@ -117,7 +117,7 @@
 - Model Deployment & MLOps
 
 </td>
-<td width="50%">
+<td width="50%" style="background-color: #000000; padding: 15px;">
 
 **Data Science & Analytics**
 - Pandas, NumPy, Matplotlib, Seaborn
@@ -132,9 +132,9 @@
 
 ### 🌐 Full-Stack Development
 
-<table>
+<table style="background-color: #000000; border: 2px solid #00ff88; border-radius: 15px;">
 <tr>
-<td width="33%">
+<td width="33%" style="background-color: #000000; padding: 15px;">
 
 **Frontend**
 - React.js, Next.js
@@ -144,7 +144,7 @@
 - UI/UX Principles
 
 </td>
-<td width="33%">
+<td width="33%" style="background-color: #000000; padding: 15px;">
 
 **Backend**
 - Node.js, Express.js
@@ -154,7 +154,7 @@
 - Authentication & Security
 
 </td>
-<td width="33%">
+<td width="33%" style="background-color: #000000; padding: 15px;">
 
 **Database & Cloud**
 - MongoDB, PostgreSQL, MySQL
@@ -179,9 +179,9 @@
 
 </div>
 
-<table>
+<table style="background-color: #000000; border: 2px solid #00ff88; border-radius: 15px;">
 <tr>
-<td width="50%" align="center">
+<td width="50%" align="center" style="background-color: #000000; padding: 20px;">
 
 ### 🧏‍♂️ Sign Language Translator
 [![Project](https://github-readme-stats.vercel.app/api/pin/?username=chopra-mayank&repo=Sign-Language-Translation&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=ffffff&icon_color=00ff88)](https://github.com/chopra-mayank/Sign-Language-Translation)
@@ -197,7 +197,7 @@
 - 99.2% uptime in testing
 
 </td>
-<td width="50%" align="center">
+<td width="50%" align="center" style="background-color: #000000; padding: 20px;">
 
 ### 🩺 Medical Diagnosis AI
 [![Project](https://github-readme-stats.vercel.app/api/pin/?username=chopra-mayank&repo=Pneumonia-Detection&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=ffffff&icon_color=00ff88)](https://github.com/chopra-mayank/Pneumonia-Detection)
@@ -215,7 +215,7 @@
 </td>
 </tr>
 <tr>
-<td width="50%" align="center">
+<td width="50%" align="center" style="background-color: #000000; padding: 20px;">
 
 ### 🔐 Email Security Analyzer
 [![Project](https://github-readme-stats.vercel.app/api/pin/?username=chopra-mayank&repo=Email-Risk-Analysis&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=ffffff&icon_color=00ff88)](https://github.com/chopra-mayank/Email-Risk-Analysis)
@@ -231,20 +231,24 @@
 - Enterprise-ready solution
 
 </td>
-<td width="50%" align="center">
+<td width="50%" align="center" style="background-color: #000000; padding: 20px;">
 
-### 📊 Business Intelligence Dashboard
-*Currently in Development*
+### 🚀 Explore My Complete Portfolio
+*20+ Projects & Growing*
 
-**🎯 Impact:** Data-driven decision making  
-**📈 Expected Metrics:** 50% faster insights  
-**🔧 Tech Stack:** React, D3.js, Python, PostgreSQL
+**🎯 Impact:** Comprehensive showcase of skills  
+**📈 Portfolio Metrics:** 15+ production apps  
+**🔧 Tech Variety:** AI/ML, Web Dev, Mobile, IoT
 
-**Key Features:**
-- Interactive visualizations
-- Real-time data processing
-- Predictive analytics
-- Custom reporting
+**Ready to Explore?**
+- 🤖 AI & Machine Learning Projects
+- 🌐 Full-Stack Applications  
+- 📱 Mobile & Desktop Apps
+- 🎨 Creative & Innovation Projects
+
+<a href="https://github.com/chopra-mayank?tab=repositories">
+<img src="https://img.shields.io/badge/🔥_VIEW_ALL_PROJECTS-Discover_My_Work-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000&color=ff6b6b" />
+</a>
 
 </td>
 </tr>
@@ -266,12 +270,12 @@
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=chopra-mayank&bg_color=0d1117&color=00ff88&line=00ff88&point=ffffff&area=true&hide_border=true&custom_title=Development%20Activity%20%26%20Consistency" width="100%" />
 
-<table>
+<table style="background-color: #000000; border: 2px solid #00ff88; border-radius: 15px;">
 <tr>
-<td width="50%">
+<td width="50%" style="background-color: #000000; padding: 15px;">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chopra-mayank&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=ffffff&custom_title=Technical%20Proficiency" width="100%" />
 </td>
-<td width="50%">
+<td width="50%" style="background-color: #000000; padding: 15px;">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=chopra-mayank&theme=github_dark" width="100%" />
 </td>
 </tr>
@@ -285,9 +289,9 @@
 
 <div align="center">
 
-<table>
+<table style="background-color: #000000; border: 2px solid #00ff88; border-radius: 15px;">
 <tr>
-<td width="50%">
+<td width="50%" style="background-color: #000000; padding: 20px;">
 
 ### 📸 Photography Portfolio
 <a href="https://mayankchopra.netlify.app/">
@@ -303,7 +307,7 @@
 *"Bringing the same attention to detail from photography to code"*
 
 </td>
-<td width="50%">
+<td width="50%" style="background-color: #000000; padding: 20px;">
 
 ### 🏆 Recognition & Achievements
 - 🥇 **Dean's List** - Academic Excellence (2023, 2024)
@@ -324,9 +328,9 @@
 
 <div align="center">
 
-<table>
+<table style="background-color: #000000; border: 2px solid #00ff88; border-radius: 15px;">
 <tr>
-<td width="50%">
+<td width="50%" style="background-color: #000000; padding: 20px;">
 
 ### 🚀 Immediate Goals (2024-2025)
 - 🎓 **Graduate with Honors** from Data Science Program
@@ -336,7 +340,7 @@
 - 🌟 **Mentor Junior Developers** in AI/ML
 
 </td>
-<td width="50%">
+<td width="50%" style="background-color: #000000; padding: 20px;">
 
 ### 🌟 Long-Term Vision (2025-2030)
 - 🚀 **Lead AI/ML Team** at innovative tech company
@@ -361,9 +365,9 @@
 
 ### 🌟 Ready to Make an Impact Together!
 
-<table>
+<table style="background-color: #000000; border: 2px solid #00ff88; border-radius: 15px;">
 <tr>
-<td width="50%">
+<td width="50%" style="background-color: #000000; padding: 20px;">
 
 ### 📞 Professional Contact
 <a href="mailto:mayank.chopra2312@gmail.com">
@@ -379,7 +383,7 @@
 </a>
 
 </td>
-<td width="50%">
+<td width="50%" style="background-color: #000000; padding: 20px;">
 
 ### 💬 Social & Creative
 <a href="https://github.com/chopra-mayank">
@@ -408,40 +412,53 @@
 
 ---
 
-## 🎮 Quick Facts & Personality
+## 🎮 Developer Profile & Insights
 
 <div align="center">
 
-<details>
-<summary><b>🚀 Developer Insights</b></summary>
+### 🚀 Interactive Developer Card
 
-```javascript
-const mayankChopra = {
-    location: "India 🇮🇳",
-    availability: "Open to opportunities worldwide 🌍",
-    workingHours: "Flexible (9 AM - 9 PM IST) ⏰",
-    languages: ["English", "Hindi"],
-    
-    currentlyWorkingOn: [
-        "Advanced AI/ML projects 🤖",
-        "Open source contributions 🌟",
-        "Technical blog writing ✍️",
-        "Building professional network 🤝"
-    ],
-    
-    askMeAbout: [
-        "Machine Learning & AI 🧠",
-        "Full-stack development 💻",
-        "Data visualization 📊",
-        "Photography & creativity 📸",
-        "Career advice for students 🎓"
-    ],
-    
-    lifePhilosophy: "Code with purpose, learn continuously, impact positively! 🚀"
-};
-```
+<table style="background-color: #000000; border: 2px solid #00ff88; border-radius: 15px; overflow: hidden;">
+<tr style="background: linear-gradient(45deg, #1a1a1a, #2d2d2d);">
+<td width="100%" style="padding: 20px; background-color: #000000;">
 
-</details>
+<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=20&duration=2000&pause=500&color=00FF88&background=00000000&center=true&vCenter=true&width=600&lines=👨‍💻+DEVELOPER+PROFILE+LOADING...;🌍+Location%3A+India+🇮🇳;🌐+Availability%3A+Worldwide+Remote;⏰+Hours%3A+Flexible+(9+AM+-+9+PM+IST);🗣️+Languages%3A+English+%7C+Hindi" />
+</div>
+
+<table style="width: 100%; background-color: #000000; margin: 20px 0;">
+<tr>
+<td width="50%" style="background-color: #000000; padding: 15px; border: 1px solid #00ff88; border-radius: 10px; margin: 5px;">
+
+**🔥 Currently Working On**
+- 🤖 Advanced AI/ML projects
+- ⭐ Open source contributions
+- ✍️ Technical blog writing
+- 🤝 Building professional network
+
+</td>
+<td width="50%" style="background-color: #000000; padding: 15px; border: 1px solid #00ff88; border-radius: 10px; margin: 5px;">
+
+**💬 Ask Me About**
+- 🧠 Machine Learning & AI
+- 💻 Full-stack development  
+- 📊 Data visualization
+- 📸 Photography & creativity
+- 🎓 Career advice for students
+
+</td>
+</tr>
+</table>
+
+<div align="center" style="margin: 20px 0; padding: 15px; background: linear-gradient(45deg, #001a00, #003300); border-radius: 10px; border: 2px solid #00ff88;">
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=18&duration=3000&pause=1000&color=00FF88&background=00000000&center=true&vCenter=true&width=500&lines=💡+Life+Philosophy;🚀+Code+with+purpose;📚+Learn+continuously;🌟+Impact+positively!" />
+</div>
+
+</td>
+</tr>
+</table>
+
+</div>
 
 <details>
 <summary><b>⚡ Fun Professional Facts</b></summary>
