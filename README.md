@@ -14,8 +14,7 @@
 
 <!-- Quick Stats & Contact CTA -->
 <p>
-<a href="mailto:mayank.chopra2312@gmail.com">
-<img src="https://img.shields.io/badge/📧_Available_for_Opportunities-HIRE_ME-success?style=for-the-badge&logo=mail&logoColor=white&labelColor=059669&color=ff6b6b" />
+<img src="https://img.shields.io/badge/📧_Available_for_Opportunities-HIRE_ME-success?style=for-the-badge&logo=mail&logoColor=white&labelColor=059669&color=ff6b6b" /><a href="mailto:mayank.chopra2312@gmail.com">
 <img src="https://img.shields.io/badge/📍_Location-India_(Open_to_Remote)-blue?style=for-the-badge&logo=location&logoColor=white&labelColor=2563eb&color=00ff88" />
 <img src="https://img.shields.io/badge/💼_Experience-1+_Years-orange?style=for-the-badge&logo=briefcase&logoColor=white&labelColor=ea580c&color=00ff88" />
 </p>
