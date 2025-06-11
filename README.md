@@ -279,7 +279,7 @@
 </p>
 
 <p>
-<a href="https://instagram.com/mayankchopra">
+<a href="https://instagram.com/mayank_chopra_23">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" />
 </a>
 <a href="https://twitter.com/mayankchopra">
