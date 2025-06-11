@@ -273,14 +273,6 @@
 </tr>
 </table>
 
-<div align="center">
-
-<a href="https://github.com/chopra-mayank?tab=repositories">
-<img src="https://img.shields.io/badge/🚀_View_Complete_Portfolio-Explore_All_Projects-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000&color=00ff88" />
-</a>
-
-</div>
-
 ---
 
 <!-- Animated Divider -->
@@ -516,8 +508,6 @@
 ### 🌟 Thank You for Reviewing My Profile!
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=Ready+to+contribute+and+make+an+impact!+🚀;Let's+build+something+amazing+together!+💻;Looking+forward+to+connecting+with+you!+🤝" />
-
-<img src="https://komarev.com/ghpvc/?username=chopra-mayank&color=00ff88&style=for-the-badge&label=Profile+Views" />
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=fadeIn" />
 
