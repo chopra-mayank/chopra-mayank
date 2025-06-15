@@ -9,7 +9,7 @@
 
 <!-- Dynamic Professional Tagline -->
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=24&duration=3000&pause=1000&color=00FF88&background=0D111700&center=true&vCenter=true&multiline=true&width=1000&height=120&lines=🎯+Delivering+End-to-End+AI+Solutions+with+95%25+Accuracy;💡+Specialized+in+Machine+Learning+%26+Computer+Vision;🚀+Building+Scalable+Web+Applications+for+Real-World+Impact;📊+Converting+Complex+Data+into+Actionable+Business+Insights" alt="Professional Tagline" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=22&duration=3000&pause=1000&color=00FF88&background=0D111700&center=true&vCenter=true&multiline=true&width=1000&height=120&lines=🎯+Delivering+End-to-End+AI+Solutions+with+95%25+Accuracy;💡+Specialized+in+Machine+Learning+%26+Computer+Vision;🚀+Building+Scalable+Web+Applications+for+Real-World+Impact;📊+Converting+Complex+Data+into+Actionable+Business+Insights" alt="Professional Tagline" />
 </a>
 
 <!-- Quick Stats & Contact CTA -->
